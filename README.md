@@ -1,7 +1,7 @@
 ## Overview
 This phase of the Contract Monthly Claim System introduces additional functionality to improve the user experience. Lecturers can now submit claims with supporting documents, track the status of their claims, and receive real-time updates on the progress of their submissions.
 
-#How to Use the Application
+How to Use the Application
 **Launch the Application**
 To launch the system, double-click on the application icon on your desktop.
 
