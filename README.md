@@ -1,10 +1,6 @@
 ## Overview
 This phase of the Contract Monthly Claim System introduces additional functionality to improve the user experience. Lecturers can now submit claims with supporting documents, track the status of their claims, and receive real-time updates on the progress of their submissions.
 
-How to Use the Application
-**Launch the Application**
-To launch the system, double-click on the application icon on your desktop.
-
 **Navigate the Tabbed Interface**
 The application has four major tabs that correspond to distinct tasks. You can navigate between these tabs by clicking on the appropriate tab at the top of the window.
 
@@ -36,5 +32,4 @@ To close the application, press any key or click the close button in the upper-r
 
 # Troubleshooting Issues
 Document Upload Errors: Ensure that the selected file is not corrupted and meets the size and format requirements.
-Approval/Rejection Not Working: Ensure you have administrative privileges. Contact the system administrator if you need permission adjustments.
 Claim Submission Errors: Make sure all required fields (lecturer name, hours worked, hourly rate) are completed before submission.
